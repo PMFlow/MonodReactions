@@ -1,5 +1,5 @@
 ## This is a data repository accompanying the paper Global random walk solvers for reactive transport and biodegradation processes in heterogeneous porous media" 
-by Nicolae Suciu and Florin A. Radu.
+by Nicolae Suciu and Florin A. Radu
 
 The repository contains Matlab codes based on Global Random Walk (GRW) algorithms to solve coupled nonlinear problems of flow and reactive transport in porous media. 
 Solutions of the Richards equation are obtained with the GRW L-scheme introduced in a previous publication (https://doi.org/10.1016/j.advwatres.2021.103935). 
