@@ -1,4 +1,6 @@
-## This is a data repository accompanying the paper Global random walk solvers for reactive transport and biodegradation processes in heterogeneous porous media" 
+## Data repository accompanying the paper "Global random walk solvers for reactive transport and biodegradation processes in heterogeneous porous media" by Nicolae Suciu and Florin A. Radu
+
+This is a data repository accompanying the paper Global random walk solvers for reactive transport and biodegradation processes in heterogeneous porous media" 
 by Nicolae Suciu and Florin A. Radu
 
 The repository contains Matlab codes based on Global Random Walk (GRW) algorithms to solve coupled nonlinear problems of flow and reactive transport in porous media. 
@@ -8,19 +10,20 @@ algorithms. The nonlinearity of the reaction system is solved with explicit noni
 the flow domain contains both saturated and nonsaturated regions.
 
 Convergence tests and applications of the GRW/BGRW schemes are included in the following folders:
+
 #
-### 'CodeVerification'
+## 'CodeVerification'
 with subfolders
-#### 'BimolecularReaction_ConstantVelocity'
-#### 'Monod_SaturatedFlows'
-#### 'Monod_UnsaturatedFlows'
-#### 'Monod_VariablySaturatedFlows'
+### 'BimolecularReaction_ConstantVelocity'
+### 'Monod_SaturatedFlows'
+### 'Monod_UnsaturatedFlows'
+### 'Monod_VariablySaturatedFlows'
 	- contains code verification and convergence tests preformed with analytical manufactured solutions.
 
-### 'MonodReactions_Aquifers'
+## 'MonodReactions_Aquifers'
 	- contains Matlab codes and functions, as well as simulation results for coupled saturated-flow and multicomponent Monod reactions, obtained with GRW and BGRW explicit 
     linearization schemes.
 
-### 'MonodReactions_Soils' 
+## 'MonodReactions_Soils' 
 	- contains codes, functions, and results illustrating the used of the BGRW L-scheme to solve a coupled system of flow and multicomponent transport equations, with
     biodegradation governed by a double Monod model, in general case with transition from unsaturated to saturated flow regime. 
