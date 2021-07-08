@@ -1,4 +1,4 @@
-## Data repository accompanying the paper "Global random walk solvers for reactive transport and biodegradation processes in heterogeneous porous media" by Nicolae Suciu and Florin A. Radu
+## Data repository accompanying the paper "Global random walk solvers for reactive transport and biodegradation processes in heterogeneous porous media"
 
 This is a data repository accompanying the paper Global random walk solvers for reactive transport and biodegradation processes in heterogeneous porous media" 
 by Nicolae Suciu and Florin A. Radu
