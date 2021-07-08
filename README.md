@@ -12,18 +12,19 @@ the flow domain contains both saturated and nonsaturated regions.
 Convergence tests and applications of the GRW/BGRW schemes are included in the following folders:
 
 #
-## 'CodeVerification'
+## CodeVerification
 with subfolders
-### 'BimolecularReaction_ConstantVelocity'
-### 'Monod_SaturatedFlows'
-### 'Monod_UnsaturatedFlows'
-### 'Monod_VariablySaturatedFlows'
-	- contains code verification and convergence tests preformed with analytical manufactured solutions.
+### BimolecularReaction_ConstantVelocity
+### Monod_SaturatedFlows
+### Monod_UnsaturatedFlows
+### Monod_VariablySaturatedFlows
 
-## 'MonodReactions_Aquifers'
-	- contains Matlab codes and functions, as well as simulation results for coupled saturated-flow and multicomponent Monod reactions, obtained with GRW and BGRW explicit 
+- contains code verification and convergence tests preformed with analytical manufactured solutions.
+#
+## MonodReactions_Aquifers
+- contains Matlab codes and functions, as well as simulation results for coupled saturated-flow and multicomponent Monod reactions, obtained with GRW and BGRW explicit 
     linearization schemes.
-
-## 'MonodReactions_Soils' 
-	- contains codes, functions, and results illustrating the used of the BGRW L-scheme to solve a coupled system of flow and multicomponent transport equations, with
+#
+## MonodReactions_Soils 
+- contains codes, functions, and results illustrating the used of the BGRW L-scheme to solve a coupled system of flow and multicomponent transport equations, with
     biodegradation governed by a double Monod model, in general case with transition from unsaturated to saturated flow regime. 
