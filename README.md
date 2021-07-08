@@ -9,7 +9,8 @@ the flow domain contains both saturated and nonsaturated regions.
 
 Convergence tests and applications of the GRW/BGRW schemes are included in the following folders:
 #
-### 'CodeVerification' with subfolders
+### 'CodeVerification'
+with subfolders
 #### 'BimolecularReaction_ConstantVelocity'
 #### 'Monod_SaturatedFlows'
 #### 'Monod_UnsaturatedFlows'
