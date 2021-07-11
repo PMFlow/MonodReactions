@@ -60,7 +60,6 @@ restr=0; restjump=0; restjumpx=0; restjumpy=0; restf=0;
     %%%% BCX Bottom/Top
     nn(1,2:I-1)=nn(2,2:I-1); % no flux on bottom boundary
     nn(J,:)=nBC(J,:);  %  set to IC on top boundary
-    %% Source term concentration - was misssing in old version !!!!!!!!
     restf=dthtc(2:J-1,2:I-1)+restf; nf=floor(restf); restf=restf-nf;
     nn(2:J-1,2:I-1)=nn(2:J-1,2:I-1)+nf;
     n=nn; c=n;
