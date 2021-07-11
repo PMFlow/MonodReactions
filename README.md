@@ -27,4 +27,4 @@ with subfolders
 #
 ## MonodReactions_Soils 
 - contains codes, functions, and results illustrating the used of the BGRW L-scheme to solve a coupled system of flow and multicomponent transport equations, with
-    biodegradation governed by a double Monod model, in general case with transition from unsaturated to saturated flow regime. 
+    biodegradation governed by a double Monod model, in the general case with transition from unsaturated to saturated flow regime. 
