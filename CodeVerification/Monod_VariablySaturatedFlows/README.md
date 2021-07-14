@@ -6,8 +6,7 @@ This folder contains the following Matlab scrips and files:
 	reactive transport with nonlinear Monod reactions in case of DEGENERATE Richards equation describing
 	the transition from UNSATURATED to SATURATED flow regime.
 
-- 'F.m' is a function providing the source terms derived from analytical solutions and the coupled system of 
-	degenerate Richards equation for saturated/unsaturated flow coupled with the Monod-reactive transport.
+- 'F.m' is a function providing the source terms obtained by inserting the analytical solutions and their derivatives in the coupled system of equations.
 
 - 'velocity.m' is a function to compute velocity components according to Darcy's law.
 
