@@ -3,10 +3,10 @@ This folder contains the following Matlab scrips and files:
 
 - 'main_2D_Monod_Sat_Kraichnan_bgrw.m' is the main program for simulations of biodegradation in saturated flows
 	through heterogeneous aquifers. The flow velocity is approximated by the Kraichnan procedure. The 
-	transport step is computed with the noniterative BGRW scheme.
+	transport step is computed with the non-iterative BGRW scheme.
 
-- 'main_2D_Monod_Sat_Kraichnan_bgrw.m' is the main program for simulations of the same biodegradation process 
-	by the noniterative  unbiased GRW scheme.
+- 'main_2D_Monod_Sat_Kraichnan_grw.m' is the main program for simulations of the same biodegradation process 
+	by the non-iterative  unbiased GRW scheme.
 
 - 'BGRW_2D_Monod_Richards.m' is the function for the BGRW scheme.
 
