@@ -2,7 +2,7 @@ This folder contains the following Matlab scrips and files:
 #
 
 - 'main_2D_Monod_Richards_L_test_Sat.m' is the main program used to test the convergence of the GRW flow L-scheme 
-	coupled with an ITERATIVE BGRW L-scheme through comparisons with an analytical solution of flow and 
+	coupled with an ITERATIVE BGRW L-scheme through comparisons with analytical solutions of flow and 
 	reactive transport with nonlinear Monod reactions in case of UNSATURATED flow regime.
 
 - 'F_unsaturated.m' is a function providing the source terms derived from analytical solutions and the coupled 
