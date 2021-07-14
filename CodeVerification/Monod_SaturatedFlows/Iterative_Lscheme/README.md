@@ -5,8 +5,8 @@ This folder contains the following Matlab scrips and files:
 	coupled with an ITERATIVE BGRW L-scheme through comparisons with analytical solutions of flow and 
 	reactive transport with nonlinear Monod reactions in case of SATURATED flow regime.
 
-- 'F_saturated.m' is a function providing the source terms derived from analytical solutions and the coupled 
-	system of equations for saturated flow coupled with the Monod-reactive transport model.
+- 'F_saturated.m' is a function providing the source terms obtained by inserting the analytical solutions and their
+	derivatives in the coupled system of equations.
 
 - 'velocity.m' is a function to compute velocity components according to Darcy's law.
 
