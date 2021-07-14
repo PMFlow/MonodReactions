@@ -5,7 +5,7 @@ by Nicolae Suciu and Florin A. Radu
 
 The repository contains Matlab codes based on Global Random Walk (GRW) algorithms to solve coupled nonlinear problems of flow and reactive transport in porous media. 
 Solutions of the Richards equation are obtained with the GRW L-scheme introduced in a previous publication (https://doi.org/10.1016/j.advwatres.2021.103935). 
-The coupled system of multicomponent transport with nonlinear reactions of Monod type is solved with new numerical schemes based on both unbiased GRW and biased (BGRW) 
+The coupled system of multicomponent transport equations with nonlinear reactions of Monod type is solved with new numerical schemes based on both unbiased GRW and biased (BGRW) 
 algorithms. The nonlinearity of the reaction system is solved with explicit non-iterative schemes, in case of saturated flow regime, and with linearization L-schemes if 
 the flow domain contains both saturated and nonsaturated regions.
 
