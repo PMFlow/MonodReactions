@@ -5,7 +5,7 @@ This folder contains the following Matlab scrips and files:
 	with transition from unsaturated to saturated flow regime modeled by a degenerate Richards equation,
 	solved with an iterative GRW L-scheme. The transport step is solved with the iterative BGRW L-scheme.
 
-- 'BGRW_2D_Monod_Richards_L.m' is the function for the BGRW L-scheme.
+- 'BGRW_2D_Monod_Richards_L.m' is the function for the nonreactive advection-diffusion step in the BGRW L-scheme.
 
 - 'V_Kraichnan_Gauss_param.m' and 'K_r.m' are functions used to compute realizations of the saturated bydraulic
 	conductivity modeled as a lognormal random function.
