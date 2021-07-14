@@ -10,7 +10,7 @@ This folder contains the following Matlab scrips and files:
 
 - 'velocity.m' is a function to compute velocity components according to Darcy's law.
 
-- 'theta.m' is the function which provides the variable water content.
+- 'theta.m' is the function which provides the water content (constant in the present case of saturated flow).
 
 - 'plot_conv_Monod.m' is a function to plot norms of convergence criterium for flow and transport L-schemes.
 
