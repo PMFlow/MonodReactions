@@ -8,9 +8,9 @@ This folder contains the following Matlab scrips and files:
 - 'main_2D_Monod_Sat_Kraichnan_grw.m' is the main program for simulations of the same biodegradation process 
 	by the non-iterative  unbiased GRW scheme.
 
-- 'BGRW_2D_Monod_Richards.m' is the function for the BGRW scheme.
+- 'BGRW_2D_Monod_Richards.m' is the BGRW function for the nonreactive advection-diffusion step.
 
-- 'GRW_2D_Monod_Richards.m' is the function for the unbiased GRW scheme.
+- 'GRW_2D_Monod_Richards.m' is the unbiased GRW function for the nonreactive advection-diffusion step.
 
 - 'V_Kraichnan_Gauss_param.m' and 'V_Kraichnan_Gauss_func.m' are functions used to compute realizations of the
 	Kraichnan velocities.
